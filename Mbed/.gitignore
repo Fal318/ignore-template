@@ -1,0 +1,11 @@
+# Allow
+
+# Deny
+*.png
+.mbed
+.mbedbuild
+mbed-os.lib
+CMakeLists.txt
+BUILD/
+mbed-os/
+cmake_build/
